@@ -53,7 +53,7 @@
 
     .learner-row {
       border-bottom: calcRem(1) solid lighten($base-text-color, 75%);
-      font-size: calcRem(14);
+      font-size: calcRem(12);
 
       .name, .course-progress {
         font-weight: bold;

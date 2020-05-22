@@ -4,6 +4,7 @@ import sys
 
 if __name__ == "__main__":
 
+    # Get figures repo root path, we are currently in devsite dir.
     project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
     # Insert the project root dir to find our reusable app
